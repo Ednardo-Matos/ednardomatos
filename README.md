@@ -1,5 +1,4 @@
-## Olá, me chamo Ednardo Matos ! 
-### Bem vindo ao meu perfil GitHub 👋
+## Olá! Eu sou o Ednardo Matos ! 
 
 <div>
   <a href="https://github.com/Ednardo-Matos">
